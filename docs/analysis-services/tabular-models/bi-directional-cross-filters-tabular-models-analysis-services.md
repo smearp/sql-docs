@@ -155,7 +155,7 @@ manager: "erikre"
   
 3.  Select the **SalesAmount** column.  
   
-4.  Click **Column** > **AutoSum** > **Sum** to create a measure for sales.  
+.  Click **Column** > **AutoSum** > **Sum** to create a measure for sales.  
   
 5.  Click **DimProduct**.  
   
@@ -198,7 +198,7 @@ manager: "erikre"
   
 ## See Also  
  [Create and manage relationships in Power BI Desktop](https://support.powerbi.com/knowledgebase/articles/464155-create-and-manage-relationships-in-power-bi-desktop)   
- [A practical example of how to handle simple many-to-manay relationships in Power Pivot and SSAS tabular models](http://social.technet.microsoft.com/wiki/contents/articles/22202.a-practical-example-of-how-to-handle-simple-many-to-many-relationships-in-power-pivotssas-tabular-models.aspx)   
+ [A practical example of how to handle simple many-to-many relationships in Power Pivot and SSAS tabular models](http://social.technet.microsoft.com/wiki/contents/articles/22202.a-practical-example-of-how-to-handle-simple-many-to-many-relationships-in-power-pivotssas-tabular-models.aspx)   
  [Resolving many-to-many relationships leveraging DAX cross-table filtering](http://blog.gbrueckl.at/2012/05/resolving-many-to-many-relationships-leveraging-dax-cross-table-filtering/)   
  [Many to many revolution (SQLBI blog)](http://www.sqlbi.com/articles/many2many/)  
   
